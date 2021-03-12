@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.4.1)
+  - SDWebImage (5.10.3):
+    - SDWebImage/Core (= 5.10.3)
+  - SDWebImage/Core (5.10.3)
+  - SimpleImageViewer (1.1.1)
+  - SwiftGen (6.4.0)
+  - SwiftLint (0.42.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - SDWebImage
+  - SimpleImageViewer (~> 1.1.1)
+  - SwiftGen (~> 6.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SimpleImageViewer
+    - SwiftGen
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  SDWebImage: e378178472b735e84b007bfb55514c97948a0598
+  SimpleImageViewer: 34c3a2cde2d9ac022146772cefc27fca14b0c8b1
+  SwiftGen: 67860cc7c3cfc2ed25b9b74cfd55495fc89f9108
+  SwiftLint: 4fa9579c63416865179bc416f0a92d55f009600d
+
+PODFILE CHECKSUM: 2da380694a9f61537a28f1f382005ac1ef5d873f
+
+COCOAPODS: 1.10.0
